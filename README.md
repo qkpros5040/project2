@@ -1,2 +1,4 @@
 # Openetic Directory
-# AUTHOR QASIM KHAN
+# AUTHOR MUHAMMAD QASIM KHAN
+
+# VERSION 1.0
